@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Eduardo Ferreira",
+      "email": "eduardoferreira960@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "test1",
+      "email": "test@gmail.com"
+    }
+  ]
+}
